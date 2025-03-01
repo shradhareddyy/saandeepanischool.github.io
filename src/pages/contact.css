@@ -1,0 +1,61 @@
+/* Page Background */
+.page-container {
+    background: linear-gradient(120deg, #6f9bce, #728fc8); 
+    padding: 20px;
+    color: white;
+    min-height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Contact Container */
+.contact-container {
+    background: rgba(255, 255, 255, 0.15); /* Slight transparency */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Headings */
+.contact-container h1,
+.contact-container h2 {
+    font-family: "Arial", sans-serif;
+    margin-bottom: 15px;
+}
+
+/* Contact Details */
+.contact-details ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-details li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Social Media Section */
+.social-media ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media a {
+    color: #ffcc00; /* Soft yellow */
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-media a:hover {
+    text-decoration: underline;
+}
+
+/* Icons */
+.contact-details li strong {
+    margin-left: 5px;
+}

@@ -1,0 +1,62 @@
+.about-container {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(120deg, #6f9bce, #728fc8);
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .values-section {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .values-section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .values-section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .leadership-section {
+    margin-top: 40px;
+  }
+  
+  .leader-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 80%;
+  }
+  
+  .leader-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .leader-info h3 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .leader-info p {
+    font-size: 1.1rem;
+    margin-top: 5px;
+  }
+  

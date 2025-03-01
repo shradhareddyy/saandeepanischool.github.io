@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+.home-container {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(120deg, #5ac9da, #5a6c8b);
+    height: 100vh;
+    color: white;
+  }
+  
+  .school-logo {
+    
+    align-items: center;
+    width: 600px;
+    margin-top:10px;
+    margin-bottom:20px;
+  }
+  
+  .school-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style:italic;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .about-text {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
