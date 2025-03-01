@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saandeepanischool.github.io/static/css/main.a73ba97b.css",
+    "main.js": "/saandeepanischool.github.io/static/js/main.f8da46a7.js",
+    "static/js/453.982e9dfe.chunk.js": "/saandeepanischool.github.io/static/js/453.982e9dfe.chunk.js",
+    "index.html": "/saandeepanischool.github.io/index.html",
+    "main.a73ba97b.css.map": "/saandeepanischool.github.io/static/css/main.a73ba97b.css.map",
+    "main.f8da46a7.js.map": "/saandeepanischool.github.io/static/js/main.f8da46a7.js.map",
+    "453.982e9dfe.chunk.js.map": "/saandeepanischool.github.io/static/js/453.982e9dfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73ba97b.css",
+    "static/js/main.f8da46a7.js"
+  ]
+}
