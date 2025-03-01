@@ -4,11 +4,11 @@ import "./gallery.css"
 const Gallery = () => {
   // Sample images with descriptions
   const galleryItems = [
-    { src: "/assets/rangoli.jpeg", description: "Children participating in the Rangoli competition." },
-    { src: "/assets/saraswathipooja.jpeg", description: "Prayers performed in the name of god Saraswathi." },
-    { src: "/assets/independence.jpeg", description: "Students participated in the Children's Day celebrations." },
-    { src: "/assets/republic.jpeg", description: "Kids in the fancy dress competition on Independence Day ." },
-    { src: "/assets/sankranthi.jpeg", description: "Students celebrated Sankranthi festival." },
+    { src: "`${process.env.PUBLIC_URL}/assets/rangoli.jpeg", description: "Children participating in the Rangoli competition." },
+    { src: "`${process.env.PUBLIC_URL}/assets/saraswathipooja.jpeg", description: "Prayers performed in the name of god Saraswathi." },
+    { src: "`${process.env.PUBLIC_URL}/assets/independence.jpeg", description: "Students participated in the Children's Day celebrations." },
+    { src: "`${process.env.PUBLIC_URL}/assets/republic.jpeg", description: "Kids in the fancy dress competition on Independence Day ." },
+    { src: "`${process.env.PUBLIC_URL}/assets/sankranthi.jpeg", description: "Students celebrated Sankranthi festival." },
     
   ];
 
