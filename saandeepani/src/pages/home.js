@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home-container">
 
       <motion.img
-        src="`${process.env.PUBLIC_URL}/assets/saandeepanilogo.jpeg"
+        src="`/saandeepani/assets/saandeepanilogo.jpeg"
         alt="School Logo"
         className="school-logo"
         initial={{ opacity: 0, scale: 0.5 }}
